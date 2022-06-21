@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\bin\Debug\net5.0\zad16.exe
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\bin\Debug\net5.0\zad16.deps.json
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\bin\Debug\net5.0\zad16.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\bin\Debug\net5.0\zad16.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\bin\Debug\net5.0\zad16.dll
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\bin\Debug\net5.0\ref\zad16.dll
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\bin\Debug\net5.0\zad16.pdb
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\obj\Debug\net5.0\zad16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\obj\Debug\net5.0\zad16.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\obj\Debug\net5.0\zad16.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\obj\Debug\net5.0\zad16.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\obj\Debug\net5.0\zad16.dll
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\obj\Debug\net5.0\ref\zad16.dll
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\obj\Debug\net5.0\zad16.pdb
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\19\zad16\zad16\obj\Debug\net5.0\zad16.genruntimeconfig.cache
